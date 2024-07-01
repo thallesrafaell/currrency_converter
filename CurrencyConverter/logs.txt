@@ -1,0 +1,4 @@
+MoedasLogDTO[data=2024-06-30 23:16:48, nomeMoedaDestino=USD, nomeMoedaOrigem=BRL, valorConvertido=1000.0, valorFinal=181.29999999999998]
+MoedasLogDTO[data=2024-06-30 23:16:55, nomeMoedaDestino=EUR, nomeMoedaOrigem=BRL, valorConvertido=5000.0, valorFinal=846.5]
+MoedasLogDTO[data=2024-06-30 23:17:05, nomeMoedaDestino=BRL, nomeMoedaOrigem=JPY, valorConvertido=50000.0, valorFinal=1722.5]
+MoedasLogDTO[data=2024-06-30 23:17:13, nomeMoedaDestino=BRL, nomeMoedaOrigem=USD, valorConvertido=1000000.0, valorFinal=5517200.0]
